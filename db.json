@@ -1,0 +1,19 @@
+{
+ "Candidates":[
+  {
+    "id":1,
+    "name":"Jagadeesh",
+    "email":"jagadeesh@gmail.com"
+  },
+  {
+    "id":2,
+    "name":"satish",
+    "email":"satish@gmail.com"
+  },
+  {
+    "id":3,
+    "name":"harsha",
+    "email":"harsha@gmail.com"
+  }
+ ]
+}
